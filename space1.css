@@ -1,0 +1,64 @@
+* {margin: 0; padding: 0;}
+body {
+	background-image: url("bg.png");
+	font-family:"Arial", Times, Sans-serif ;
+	margin-left: 650px;
+	font-size: 17px;
+	/*margin-bottom: 100px;*/
+
+}
+
+.frame{
+	background-color: rgba(0,128,0,0.4);
+	padding-top: 20px;
+	padding-right: 10px;
+	padding-left: 10px;
+	width: 620px;
+	height: 700px;
+
+	
+	/* put css-rules in this ccs-block here below */	
+}
+
+h1{
+	background-color: rgba(0,32,0,0.4);
+	line-height: 40px;
+	text-align: left;
+	font-family: "Arial", Times, Sans-serif;
+	padding-left: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-bottom: 30px;
+	/* put css-rules in this ccs-block here below */
+	
+}
+
+h2 {
+	line-height: 30px;
+	text-align: left;
+	font-family: "Arial", Times, Sans-serif;
+	padding-left: 30px;
+	border-style: solid;
+	border-color: purple;
+	padding-bottom: 5px;
+	padding-top: 10px;
+	margin-top: 10px;
+
+	/* put css-rules in this ccs-block here below */
+	
+}
+
+p{
+	background-color: rgba(256,256,0,0.4);
+	line-height: 20px;
+	text-align: left;
+	font-family: "Arial", Times, Sans-serif;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	margin-top: 10px;
+
+	
+	/* put css-rules in this ccs-block here below */
+}
